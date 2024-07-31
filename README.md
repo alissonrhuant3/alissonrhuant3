@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Alisson Rhuan 
 
 <div>
-  <a href="https://github.com/alissonrhuant3" />
+  <a href="https://github.com/alissonrhuant3" target="blank"/>
   <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=alissonrhuant3&show_icons=true&theme=dark"
