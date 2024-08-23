@@ -8,11 +8,10 @@
     media="(prefers-color-scheme: dark)"
   />
   <source
-    height=300
     srcset="https://github-readme-stats.vercel.app/api?username=alissonrhuant3&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=alissonrhuant3&show_icons=true" /> 
+  <img height=195 align="center" src="https://github-readme-stats.vercel.app/api?username=alissonrhuant3&show_icons=true" /> 
 </picture>
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissonrhuant3&layout=compact&theme=dark" /> 
 </div>
