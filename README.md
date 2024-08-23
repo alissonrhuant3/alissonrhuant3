@@ -8,6 +8,7 @@
     media="(prefers-color-scheme: dark)"
   />
   <source
+    height=300
     srcset="https://github-readme-stats.vercel.app/api?username=alissonrhuant3&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
